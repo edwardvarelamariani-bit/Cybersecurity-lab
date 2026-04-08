@@ -58,6 +58,12 @@ cybersecurity-lab/
 
 ---
 
+### 🛠️ Herramientas Complementarias
+
+- **[Ollama-Open-WebUI-Setup](https://github.com/edwardvarelamariani-bit/Ollama-Open-WebUI-Setup)** — Chat local con IA para explicar alertas Wazuh, investigar exploits, documentar pentests. Offline, sin internet, sin costos.
+
+---
+
 ## 🔗 Recursos relacionados
 
 - [Wazuh ARM64 — Guía de instalación nativa](https://github.com/edwardvarelamariani-bit/Wazuh-arm64-lab)
