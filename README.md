@@ -41,7 +41,7 @@ El objetivo es practicar detección de amenazas, análisis de incidentes y técn
 |------|-----------|--------|
 | Fase 1 | SSH Brute Force + Port Scanning → Detección Wazuh | ✅ Completada |
 | Fase 2 | SQLi + XSS en DVWA → Detección Wazuh + OpenVAS | ✅ Completada (OpenVAS pendiente) |
-| Fase 3 | Wazuh Dashboard, alertas email, Prometheus + Grafana | 🔄 Pendiente |
+| Fase 3 | Wazuh Dashboard, alertas email, Prometheus + Grafana | ✅ Completada |
 | Fase 4 | Movimiento lateral, threat hunting, informe pentest | 🔄 Pendiente |
 
 ---
@@ -53,7 +53,8 @@ cybersecurity-lab/
 ├── README.md
 └── fases/
     ├── fase1-fase2-informe.md
-    └── ...
+    ├── fase3_bloques_A-B-C -.md
+    └──...
 ```
 
 ---
